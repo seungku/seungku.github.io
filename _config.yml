@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : 수업료 통계
     description                           : 월별 수업료 입금 통계를 한눈에 확인할 수 있어요.
-    fontawesome_icon_name                 : bar-chart
+    fontawesome_icon_name                 : signal
 
   - title                                 : 수업일정 공유
     description                           : 등록/변경한 수업 일정을 학생과 쉽게 공유할 수 있어요.
