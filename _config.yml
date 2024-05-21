@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : 수업관리 전용 캘린더
     description                           : 모바일 캘린더에 수업관리에 필요한 모든 기능을 담았어요.
-    fontawesome_icon_name                 : calendar-days
+    fontawesome_icon_name                 : calendar
 
   - title                                 : 수업 횟수 자동계산
     description                           : 등록된 수업 정보를 기반으로 수업 횟수가 자동으로 계산되요.
@@ -46,19 +46,19 @@ features                                  :
     
   - title                                 : 수업료 입금일 자동 알림
     description                           : 수업료 입금일이 되면 자동으로 입금 요청 메시지를 수강생에게 보낼 수 있어요.
-    fontawesome_icon_name                 : message
+    fontawesome_icon_name                 : comment
 
   - title                                 : 수업 진도/숙제/메모 관리
     description                           : 일정별 진도/숙제/메모를 기록하고 수강생과 쉽게 공유할 수 있어요.
-    fontawesome_icon_name                 : bars-progress
+    fontawesome_icon_name                 : tasks
 
   - title                                 : 수업료 통계
     description                           : 월별 수업료 입금 통계를 한눈에 확인할 수 있어요.
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : bar-chart
 
   - title                                 : 수업일정 공유
     description                           : 등록/변경한 수업 일정을 학생과 쉽게 공유할 수 있어요.
-    fontawesome_icon_name                 : share-nodes
+    fontawesome_icon_name                 : share-alt
 
 
 # Theme Settings
