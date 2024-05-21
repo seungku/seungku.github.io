@@ -1,68 +1,112 @@
 ---
 layout: page
-title: 사용안내
+title: 둘러보기
 include_in_header: true
 ---
 
-# "오늘 수업" 사용안내
-선생님과 학생 모두에게 유용한 “오늘 수업”으로 수업 관리와 소통을 쉽고 편하게 하세요!
+# "오늘 수업" 둘러보기
+“오늘 수업”으로 수업 관리와 소통을 쉽고 편하게 하세요!
 
 과외, 레슨, PT, 소규모 학원 종사자들의 수업 관리를 쉽고 편하게 도와주는 "오늘 수업"입니다. 개인 수업 및 일정 관리의 불편한 사항들을 개선한 수업관리 전용 캘린더입니다.
 
 <br>
 
-### `일정`
-# **일정보기 설정**
-일정보기 방식을 월간/주간/일간으로 변경할 수 있어요.
-![우측 상단 버튼을 누르세요.]([https://genio03.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4eebc536-20b0-4f77-b659-2be26e0d27a4%2Fba7d7e89-571e-4434-80e5-9665a5d9921a%2F%25EC%259D%25BC%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B8%25B0_%25EC%2584%25A4%25EC%25A0%25951.png?table=block&id=0e222aec-7fb2-4422-b3cd-892fe68afdaa&spaceId=4eebc536-20b0-4f77-b659-2be26e0d27a4&width=2000&userId=&cache=v2](https://genio03.notion.site/4576b2975bff4617bab2872f5ee1d064))
+# **일정**
+일정과 관련된 기능 사용 방법입니다.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+#### 일정보기 설정
+- 일정보기 방식을 월간/주간/일간으로 변경할 수 있어요.
+- [상세안내](https://genio03.notion.site/4576b2975bff4617bab2872f5ee1d064)
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+#### 일정 상세보기
+- 선택한 일정의 상세내용을 확인할 수 있어요.
+- [상세안내](https://genio03.notion.site/60ef5f8df70b4859a13cb91f6bd4c9fc)
 
-<br>
+#### 휴강 등록하기
+- 휴강일정을 쉽게 등록할 수 있어요. 휴강을 등록하면 수업 횟수는 자동으로 계산돼요.
+- [상세안내](https://genio03.notion.site/8a8b92758c5f48f085ac4bc360066c50)
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+#### 보강 등록하기
+- 보강일정을 쉽게 등록할 수 있어요. 보강을 등록하면 수업 횟수는 자동으로 계산돼요.
+- [상세안내](https://genio03.notion.site/cffd9e796ad54cc59ba49e3c8ad8a6be)
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+#### 수업 관리하기
+- 수업 일정에 진도, 숙제, 메모를 기록할 수 있어요.
+- [상세안내](https://genio03.notion.site/cffd9e796ad54cc59ba49e3c8ad8a6be)
 
 <br>
 
 ________
 <br>
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+# **수업**
+일정과 관련된 기능 사용 방법입니다.
+
+#### 수업등록
+- 새로운 수업을 등록할 수 있어요.
+- [상세안내](https://genio03.notion.site/aa301476fa4640b89d1fad4dec58ca91)
+
+#### 수업 수정/숨김/삭제/상세보기
+- 등록한 수업을 수정/숨김/삭제/상세보기 할 수 있어요.
+- [상세안내](https://genio03.notion.site/eae628f97507495e82d758ad19a1169e)
 
 <br>
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+________
+<br>
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+# **연락처**
+수업에 등록된 수강생과 쉽게 연락할 수 있어요.
+- [상세안내](https://genio03.notion.site/79ce9ce9d6dc405bb33f3b7f3544fbea)
 
 <br>
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+________
+<br>
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+# **수업료 통계**
+수업에 등록된 수강생과 쉽게 연락할 수 있어요.
+- [상세안내](https://genio03.notion.site/969b672169e44ac9ac58008e54d6a1d0)
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+<br>
 
+________
+<br>
+
+# **수업료 입금요청**
+"오늘 수업"이 수강생에게 수업료 입금요청 메시지를 대신 보내드려요.
+
+#### 자동 알림톡 예약하기
+- 수업료 입금일이 되면 "오늘 수업"이 수강생에게 카카오 알림톡을 자동으로 보내드려요.
+- [상세안내](https://genio03.notion.site/3f3ef37b77414308b453caabf710d69b)
+
+#### 지금 알림톡 전송하기
+- "오늘 수업"이 수강생에게 즉시 카카오 알림톡을 보내드려요.
+- [상세안내](https://genio03.notion.site/4ad0fa1520fd43db83946e0ce5a24f01)
+
+#### 알림톡 설정하기
+- 카카오 알림톡 메세지 설정과 전송 내역을 확인할 수 있어요.
+- [상세안내](https://genio03.notion.site/074a3fc0a84346c7a4a023d1dd57ba9d)
+
+<br>
+
+________
+<br>
+
+# **캘린더 동기화**
+스마트폰에서 사용중인 캘린더 정보를 "오늘 수업"에 추가할 수 있어요.
+- [상세안내](https://genio03.notion.site/2beffb15f4ac41c7a7628a02daeaaac2)
+
+<br>
+
+________
+<br>
+
+# **위젯**
+홈 위젯으로 편리하게 오늘 수업일정을 확인하세요.
+- [상세안내](https://genio03.notion.site/bed685557f8344c986b027a156b1602d)
+
+<br>
+
+________
 <br>
