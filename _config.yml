@@ -60,6 +60,10 @@ features                                  :
     description                           : 등록/변경한 수업 일정을 학생과 쉽게 공유할 수 있어요.
     fontawesome_icon_name                 : share-alt
 
+  - title                                 : 활용 가능 분야
+    description                           : 과외 일정관리, 레슨 일정관리, PT 회원 일정관리, 소규모 학원 일정관리, 소규모 샵 일정관리 등
+    fontawesome_icon_name                 : users
+    
 
 # Theme Settings
 topbar_color                              : "#000000"
