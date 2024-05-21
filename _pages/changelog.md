@@ -14,7 +14,7 @@ include_in_header: true
 ### `일정`
 # **일정보기 설정**
 일정보기 방식을 월간/주간/일간으로 변경할 수 있어요.
-![우측 상단 버튼을 누르세요.](https://genio03.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4eebc536-20b0-4f77-b659-2be26e0d27a4%2Fba7d7e89-571e-4434-80e5-9665a5d9921a%2F%25EC%259D%25BC%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B8%25B0_%25EC%2584%25A4%25EC%25A0%25951.png?table=block&id=0e222aec-7fb2-4422-b3cd-892fe68afdaa&spaceId=4eebc536-20b0-4f77-b659-2be26e0d27a4&width=2000&userId=&cache=v2)
+![우측 상단 버튼을 누르세요.]([https://genio03.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4eebc536-20b0-4f77-b659-2be26e0d27a4%2Fba7d7e89-571e-4434-80e5-9665a5d9921a%2F%25EC%259D%25BC%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B8%25B0_%25EC%2584%25A4%25EC%25A0%25951.png?table=block&id=0e222aec-7fb2-4422-b3cd-892fe68afdaa&spaceId=4eebc536-20b0-4f77-b659-2be26e0d27a4&width=2000&userId=&cache=v2](https://genio03.notion.site/4576b2975bff4617bab2872f5ee1d064))
 
 #### What's New
 - Much far proper exotically precise unaccountable.
