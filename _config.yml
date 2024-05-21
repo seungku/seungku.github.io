@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : 아직도 수업 횟수를 직접 계산하세요? "오늘 수업"으로 수업 관리를 쉽고 편하게 하세요!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -21,8 +21,8 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Seungku                                
-your_link                                 :                 
-your_city                                 : Cheongju                                
+your_link                                 : http://pf.kakao.com/_JxmHxhG
+your_city                                 : 
 email_address                             : 
 facebook_username                         :                                           
 instagram_username                        : 
@@ -36,46 +36,29 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : 수업관리 전용 캘린더
+    description                           : 모바일 캘린더에 수업관리에 필요한 모든 기능을 담았어요.
+    fontawesome_icon_name                 : calendar-days
+
+  - title                                 : 수업 횟수 자동계산
+    description                           : 등록된 수업 정보를 기반으로 수업 횟수가 자동으로 계산되요.
+    fontawesome_icon_name                 : calculator
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : 수업료 입금일 자동 알림
+    description                           : 수업료 입금일이 되면 자동으로 입금 요청 메시지를 수강생에게 보낼 수 있어요.
+    fontawesome_icon_name                 : message
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : 수업 진도/숙제/메모 관리
+    description                           : 일정별 진도/숙제/메모를 기록하고 수강생과 쉽게 공유할 수 있어요.
+    fontawesome_icon_name                 : bars-progress
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : 수업료 통계
+    description                           : 월별 수업료 입금 통계를 한눈에 확인할 수 있어요.
+    fontawesome_icon_name                 : chart-simple
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+  - title                                 : 수업일정 공유
+    description                           : 등록/변경한 수업 일정을 학생과 쉽게 공유할 수 있어요.
+    fontawesome_icon_name                 : share-nodes
 
 
 # Theme Settings
