@@ -1,17 +1,20 @@
 ---
 layout: page
-title: What's New
+title: 사용안내
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+# "오늘 수업" 사용안내
+선생님과 학생 모두에게 유용한 “오늘 수업”으로 수업 관리와 소통을 쉽고 편하게 하세요!
+
+과외, 레슨, PT, 소규모 학원 종사자들의 수업 관리를 쉽고 편하게 도와주는 "오늘 수업"입니다. 개인 수업 및 일정 관리의 불편한 사항들을 개선한 수업관리 전용 캘린더입니다.
 
 <br>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+### `일정`
+# **일정보기 설정**
+일정보기 방식을 월간/주간/일간으로 변경할 수 있어요.
+![우측 상단 버튼을 누르세요.](https://genio03.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4eebc536-20b0-4f77-b659-2be26e0d27a4%2Fba7d7e89-571e-4434-80e5-9665a5d9921a%2F%25EC%259D%25BC%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B8%25B0_%25EC%2584%25A4%25EC%25A0%25951.png?table=block&id=0e222aec-7fb2-4422-b3cd-892fe68afdaa&spaceId=4eebc536-20b0-4f77-b659-2be26e0d27a4&width=2000&userId=&cache=v2)
 
 #### What's New
 - Much far proper exotically precise unaccountable.
