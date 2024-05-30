@@ -1,8 +1,8 @@
 ---
 layout: post3
 title: 적절한 과외비 설정하기
-description: "과외 선생님과 학생, 학부모 모두를 위한 적절한 과외비 설정 방법을 소개합니다."
-keywords: "과외비, 과외 비용, 과외 수업, 대한민국 과외비, 초등학생 과외비, 중학생 과외비, 고등학생 과외비"
+description: 과외 선생님과 학생, 학부모 모두를 위한 적절한 과외비 설정 방법을 소개합니다.
+keywords: 과외비, 과외 비용, 과외 수업, 대한민국 과외비, 초등학생 과외비, 중학생 과외비, 고등학생 과외비
 include_in_header: false
 include_in_footer: false
 ---
