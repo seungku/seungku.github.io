@@ -1,5 +1,5 @@
 #page title
-page_title                                : 아직도 수업 횟수를 직접 계산하세요? "오늘 수업"으로 수업 관리를 쉽고 편하게 하세요!                                 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 오늘 수업, 수업관리를 쉽고 편하게           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6462989746                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
