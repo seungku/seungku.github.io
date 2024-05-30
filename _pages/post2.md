@@ -1,8 +1,8 @@
 ---
 layout: page
-title: post2
-description: "효과적인 과외 홍보를 위한 가이드"
-keywords: "과외, 레슨, 전단지, 디자인, 홍보"
+title: 과외 전단지 만들기
+description: 효과적인 과외 홍보를 위한 가이드
+keywords: 과외, 레슨, 전단지, 디자인, 홍보
 include_in_header: false
 include_in_footer: false
 ---
