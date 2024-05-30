@@ -1,6 +1,8 @@
 ---
 layout: page
 title: post1
+description: "나에게 딱 맞는 과외 찾기"
+keywords: "과외, 과외 구하기, 설탭, 콴다 과외, 김과외, 숨고 과외, 과외 바다"
 include_in_header: false
 include_in_footer: false
 ---
