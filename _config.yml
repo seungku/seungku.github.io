@@ -1,5 +1,5 @@
 #page title
-page_title                                : 오늘 수업                                  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 아직도 수업 횟수를 직접 계산하세요? "오늘 수업"으로 수업 관리를 쉽고 편하게 하세요!                                 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6462989746                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : 오늘 수업                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : 아직도 수업 횟수를 직접 계산하세요? "오늘 수업"으로 수업 관리를 쉽고 편하게 하세요!
 
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Seungku                                
+your_name                                 : Modamu                                
 your_link                                 : http://pf.kakao.com/_JxmHxhG
 your_city                                 : 
 email_address                             : 
