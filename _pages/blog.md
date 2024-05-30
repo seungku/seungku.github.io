@@ -1,6 +1,6 @@
 ---
 layout: page
-title: private lesson
+title: lesson
 include_in_header: false
 include_in_footer: false
 ---
