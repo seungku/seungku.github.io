@@ -2,6 +2,7 @@
 layout: page
 title: private lesson
 include_in_header: false
+include_in_footer: false
 ---
 
 # 과외 구하는 방법: 당신에게 딱 맞는 과외 찾기
