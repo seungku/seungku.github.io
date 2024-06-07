@@ -108,6 +108,11 @@ ________
 
 <br>
 
+<br>
+
+# **블로그**
+- [네이버 블로그](https://blog.naver.com/modamu)
+
 # **포스팅**
 - [과외 구하는 방법](https://seungku.github.io/post1)
 - [과외 전단지 만들기](https://seungku.github.io/post2)
