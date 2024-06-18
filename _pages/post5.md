@@ -3,7 +3,7 @@ layout: page
 url: post5
 title: 과외 일정 관리하기
 description: 효율적인 과외 일정 관리 방법과 도구들을 소개합니다.
-keywords: 과외 일정, 과외 스케줄, 일정 관리, 시간 관리, 과외 수업 관리
+keywords: 과외 일정, 과외 스케줄, 일정 관리, 시간 관리, 과외 수업 관리, 수업 관리
 include_in_header: false
 include_in_footer: false
 ---
