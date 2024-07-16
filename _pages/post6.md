@@ -1,6 +1,6 @@
 ---
 layout: page
-url: post4
+url: post6
 title: 개인과외 신고 절차 안내
 description: 개인과외를 신고하는 절차와 방법을 안내합니다.
 keywords: 개인과외, 과외 신고, 과외 등록, 과외 법률, 과외 규제, 과외 신고 방법
