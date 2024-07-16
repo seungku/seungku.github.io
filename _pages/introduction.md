@@ -119,6 +119,7 @@ ________
 - [적정 과외비란?](https://seungku.github.io/post3)
 - [과외비 요청 문자 작성하기](https://seungku.github.io/post4)
 - [과외 일정관리](https://seungku.github.io/post5)
+- [개인과외 신고 절차 안내](https://seungku.github.io/post6)
   
 <br>
 
