@@ -39,6 +39,24 @@ ________
 
 개인과외 신고는 주로 관할 교육청에서 이루어집니다. 본인이 속한 지역의 교육청을 확인하고 방문하거나, 온라인으로 신고할 수 있는지 확인합니다.
 
+서울특별시 교육청: http://www.sen.go.kr
+부산광역시 교육청: http://www.pen.go.kr
+대구광역시 교육청: http://www.dge.go.kr
+인천광역시 교육청: http://www.ice.go.kr
+광주광역시 교육청: http://www.gen.go.kr
+대전광역시 교육청: http://www.dje.go.kr
+울산광역시 교육청: http://www.use.go.kr
+세종특별자치시 교육청: http://www.sje.go.kr
+경기도 교육청: http://www.goe.go.kr
+강원도 교육청: http://www.gwe.go.kr
+충청북도 교육청: http://www.cbe.go.kr
+충청남도 교육청: http://www.cne.go.kr
+전라북도 교육청: http://www.jbe.go.kr
+전라남도 교육청: http://www.jne.go.kr
+경상북도 교육청: http://www.gbe.kr
+경상남도 교육청: http://www.gne.go.kr
+제주특별자치도 교육청: http://www.jje.go.kr
+
 <br>
 
 ________
