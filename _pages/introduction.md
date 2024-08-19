@@ -120,6 +120,8 @@ ________
 - [과외비 요청 문자 작성하기](https://seungku.github.io/post4)
 - [과외 일정관리](https://seungku.github.io/post5)
 - [개인과외 신고 절차 안내](https://seungku.github.io/post6)
+- [과외 수업 전후 효과적인 복습 방법](https://seungku.github.io/post7)
+- [온라인 과외 vs 오프라인 과외 장단점 분석](https://seungku.github.io/post8)
   
 <br>
 
