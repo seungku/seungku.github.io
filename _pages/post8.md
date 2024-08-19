@@ -1,6 +1,6 @@
 ---
 layout: page
-url: post6
+url: post8
 title: 온라인 과외 vs 오프라인 과외: 장단점 분석
 description: 온라인 과외와 오프라인 과외의 장단점을 비교하고 분석합니다.
 keywords: 온라인 과외, 오프라인 과외, 과외 비교, 학습 방법, 비대면 과외, 대면 과외
